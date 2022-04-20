@@ -4,7 +4,7 @@ import './Main.css';
 
 const Main = props => 
   <Fragment>
-    <Header />
+    <Header {...props}/>
     <main className="content">
       Conteúdo
     </main>
