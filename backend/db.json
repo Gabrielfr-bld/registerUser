@@ -6,14 +6,9 @@
       "email": "aoliveira@cod3r.com.br"
     },
     {
-      "id": 2,
-      "name": "Maria Julia da Silva",
-      "email": "mjds@empresa.com"
-    },
-    {
-      "name": "Ana Silva ",
+      "name": "Ana Silva",
       "email": "anasilva@lala.com",
-      "id": 3
+      "id": 2
     }
   ]
 }
